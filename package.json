@@ -1,0 +1,22 @@
+{
+  "name": "ssr-react-node-app",
+  "version": "1.0.0",
+  "description": "Server-Side-Rendering React-Router Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "ssr init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpperLEFTY/Server-Side-Rendering-React-Router-Node.git"
+  },
+  "keywords": [
+    "ssr-react-router-node"
+  ],
+  "author": "Essence Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UpperLEFTY/Server-Side-Rendering-React-Router-Node/issues"
+  },
+  "homepage": "https://github.com/UpperLEFTY/Server-Side-Rendering-React-Router-Node#readme"
+}
